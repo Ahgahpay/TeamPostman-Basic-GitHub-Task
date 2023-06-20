@@ -5,3 +5,5 @@ In addition to my expertise in manual testing, I possess skills in API testing a
 Throughout my professional journey, I have gained hands-on experience with various tools essential for testing, including Jira, Postman, Google Docs, Google Sheets, GitHub, and MySQL Workbench. These tools have facilitated efficient collaboration, reporting, and analysis, enabling me to deliver high-quality results.
 
 I am constantly expanding my knowledge and skills in automation testing, striving to enhance my abilities and contribute to the advancement of software quality assurance.
+
+just adding some texts
